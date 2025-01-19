@@ -1,1 +1,2 @@
 drop if exist customer_table
+create table customer_table
