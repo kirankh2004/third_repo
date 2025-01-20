@@ -1,3 +1,4 @@
 drop if exist customer_table
 create table customer_table
-'primary_key' int
+'primary_key' int,
+'lxcr' string
